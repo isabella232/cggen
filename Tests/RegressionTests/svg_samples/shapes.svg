@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>shapes</title>
-    <desc>Created with Sketch.</desc>
-    <g id="shapes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path id="Line-2" d="M25,27.5 L29.5,36.5 L25.5,36.5 L25.5,45.5 L24.5,45.5 L24.5,36.5 L20.5,36.5 L25,27.5 Z" fill="#979797" fill-rule="nonzero"></path>
-        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="3" y="29" width="16" height="16" rx="8"></rect>
-        <path d="M6,3 C15.3927572,10.4972325 18.0532162,3 24.8215994,3 C31.5899826,3 33.6895589,9.59961845 43.8040787,3" id="Path-2" stroke="#979797" stroke-linecap="round"></path>
-        <ellipse id="Oval" stroke="#979797" fill="#D8D8D8" cx="14" cy="17.5" rx="11" ry="7.5"></ellipse>
-        <polygon id="Star" stroke="#979797" fill="#D8D8D8" points="38.5 22.25 33.5038254 24.5676275 34.4580098 19.6588137 30.4160196 16.1823725 36.0019127 15.4661863 38.5 11 40.9980873 15.4661863 46.5839804 16.1823725 42.5419902 19.6588137 43.4961746 24.5676275"></polygon>
-        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" x="32" y="30" width="15" height="15"></rect>
-        <path d="M3,48 L48,48" id="Line" stroke="#979797" stroke-width="2" stroke-linecap="square"></path>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" version="1.1" viewBox="0 0 50 50"><title>shapes</title><desc>Created with Sketch.</desc><g id="shapes" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><path id="Line-2" fill="#979797" fill-rule="nonzero" d="M25,27.5 L29.5,36.5 L25.5,36.5 L25.5,45.5 L24.5,45.5 L24.5,36.5 L20.5,36.5 L25,27.5 Z"/><rect id="Rectangle" width="16" height="16" x="3" y="29" fill="#D8D8D8" stroke="#979797" rx="8"/><path id="Path-2" stroke="#979797" stroke-linecap="round" d="M6,3 C15.3927572,10.4972325 18.0532162,3 24.8215994,3 C31.5899826,3 33.6895589,9.59961845 43.8040787,3"/><ellipse id="Oval" cx="14" cy="17.5" fill="#D8D8D8" stroke="#979797" rx="11" ry="7.5"/><polygon id="Star" fill="#D8D8D8" stroke="#979797" points="38.5 22.25 33.504 24.568 34.458 19.659 30.416 16.182 36.002 15.466 38.5 11 40.998 15.466 46.584 16.182 42.542 19.659 43.496 24.568"/><rect id="Rectangle" width="15" height="15" x="32" y="30" fill="#D8D8D8" stroke="#979797"/><path id="Line" stroke="#979797" stroke-linecap="square" stroke-width="2" d="M3,48 L48,48"/></g></svg>
